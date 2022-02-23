@@ -1,7 +1,7 @@
-# Computer Lab III: Practical Assignment
+## Computer Lab III: Practical Assignment
 
-## Group members:    
+### Group members:    
 [Rodrigo Rodrigues](https://github.com/webst2r)  
-[Daniel Azevedo](https://github.com/danielpazevedo)
+[Daniel Azevedo](https://github.com/danielpazevedo)  
 [Guilherme Monteiro](https://github.com/rushmetra)  
 
